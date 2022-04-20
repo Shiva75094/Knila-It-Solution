@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-20T19:29:25 IST" name="Default suite" finished-at="2022-04-20T19:30:08 IST" duration-ms="43578">
+    <groups>
+    </groups>
+    <test started-at="2022-04-20T19:29:25 IST" name="Default test" finished-at="2022-04-20T19:30:08 IST" duration-ms="43578">
+      <class name="com.demoblaze.comcast.productstore.ProuctStoreTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.demoblaze.comcast.productstore.ProuctStoreTest@4efc180e]" started-at="2022-04-20T19:29:25 IST" name="configBS" finished-at="2022-04-20T19:29:25 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.demoblaze.comcast.productstore.ProuctStoreTest@4efc180e]" started-at="2022-04-20T19:29:25 IST" name="configBC" finished-at="2022-04-20T19:29:33 IST" duration-ms="8207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="productTest()[pri:0, instance:com.demoblaze.comcast.productstore.ProuctStoreTest@4efc180e]" started-at="2022-04-20T19:29:33 IST" name="productTest" finished-at="2022-04-20T19:30:08 IST" duration-ms="34772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productTest -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.demoblaze.comcast.productstore.ProuctStoreTest@4efc180e]" started-at="2022-04-20T19:30:08 IST" name="configAC" finished-at="2022-04-20T19:30:08 IST" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.demoblaze.comcast.productstore.ProuctStoreTest@4efc180e]" started-at="2022-04-20T19:30:09 IST" name="configAS" finished-at="2022-04-20T19:30:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.demoblaze.comcast.productstore.ProuctStoreTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
